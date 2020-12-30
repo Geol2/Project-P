@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Project-P/static/css/main.cc7ea878.chunk.css",
+    "main.js": "/Project-P/static/js/main.1f4bbda3.chunk.js",
+    "main.js.map": "/Project-P/static/js/main.1f4bbda3.chunk.js.map",
+    "runtime-main.js": "/Project-P/static/js/runtime-main.f1ff66f9.js",
+    "runtime-main.js.map": "/Project-P/static/js/runtime-main.f1ff66f9.js.map",
+    "static/js/2.99ca6942.chunk.js": "/Project-P/static/js/2.99ca6942.chunk.js",
+    "static/js/2.99ca6942.chunk.js.map": "/Project-P/static/js/2.99ca6942.chunk.js.map",
+    "static/js/3.4e2473a9.chunk.js": "/Project-P/static/js/3.4e2473a9.chunk.js",
+    "static/js/3.4e2473a9.chunk.js.map": "/Project-P/static/js/3.4e2473a9.chunk.js.map",
+    "index.html": "/Project-P/index.html",
+    "static/css/main.cc7ea878.chunk.css.map": "/Project-P/static/css/main.cc7ea878.chunk.css.map",
+    "static/js/2.99ca6942.chunk.js.LICENSE.txt": "/Project-P/static/js/2.99ca6942.chunk.js.LICENSE.txt",
+    "static/media/maincut.ae1575c0.png": "/Project-P/static/media/maincut.ae1575c0.png",
+    "static/media/panzee.5cafacd1.png": "/Project-P/static/media/panzee.5cafacd1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ff66f9.js",
+    "static/js/2.99ca6942.chunk.js",
+    "static/css/main.cc7ea878.chunk.css",
+    "static/js/main.1f4bbda3.chunk.js"
+  ]
+}
