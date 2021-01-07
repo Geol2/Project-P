@@ -16,6 +16,7 @@ class Main extends React.Component {
                         </div>
                         <div className="goods-component">
                                 <Goods>
+                                    
                                 </Goods>
                         </div> 
                     </div>
